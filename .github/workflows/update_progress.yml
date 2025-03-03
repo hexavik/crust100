@@ -1,0 +1,39 @@
+name: Update Progress in README
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update-progress:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Count progress
+        run: |
+          # Count challenges from README
+          solved=$(grep -c '\[x\]' README.md)
+          in_progress=$(grep -c '⏳' README.md)
+
+          # Update progress section
+          sed -i "s/\*\*Solved:\*\* [0-9]\+/**Solved:** $solved/" README.md
+          sed -i "s/\*\*In Progress:\*\* [0-9]\+/**In Progress:** $in_progress/" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update challenge progress"
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
