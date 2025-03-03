@@ -27,14 +27,13 @@ The challenges are divided into three phases:
 
 ## ✅ Progress
 
-**Solved:** 0  
-**In Progress:** 0  
+**Solved:** 0
 
 ### 🚀 Phase 1: Rust Fundamentals (1–20)
 
 **Goal:** Strengthen your understanding of Rust's core concepts.
 
-- ⏳ Implement a simple number guessing game.
+- [ ] Implement a simple number guessing game.
 - [ ] Create a program that reverses a string without using built-in methods.
 - [ ] Build a basic calculator supporting +, -, *, /.
 - [ ] Implement a function to count occurrences of each character in a string.

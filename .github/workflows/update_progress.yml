@@ -18,11 +18,9 @@ jobs:
         run: |
           # Count challenges from README
           solved=$(grep -c '\[x\]' README.md)
-          in_progress=$(grep -c '⏳' README.md)
 
           # Update progress section
           sed -i "s/\*\*Solved:\*\* [0-9]\+/**Solved:** $solved/" README.md
-          sed -i "s/\*\*In Progress:\*\* [0-9]\+/**In Progress:** $in_progress/" README.md
 
       - name: Commit and push changes
         run: |
