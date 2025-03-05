@@ -2,5 +2,46 @@
 !/**/
 !*.*
 
+# Ignore Rust build directory
+**/target/
+
+# Ignore debug and release builds
+**/debug/
+**/release/
+
+# Ignore Cargo.lock if you're using a library
+**/Cargo.lock
+
+# Ignore backup and temporary files
+**/*.rs.bk
+**/*~
+**/#*#
+**/.#*
+**/*.swp
+**/*.swo
+**/*.tmp
+**/*.log
+
+# Ignore compiled binaries
+**/*.rlib
+**/*.dSYM
+**/*.pdb
+
+# Ignore test output
+**/test-*
+
+# Ignore Rustfmt and Clippy artifacts
+**/rustfmt.toml
+**/clippy.toml
+
+# Ignore documentation and coverage output
+**/doc/
+**/coverage/
+
+# Ignore MacOS specific files
+.DS_Store
+._*
+
+# Ignore IDE/editor specific files
 *.code-workspace
 .vscode
