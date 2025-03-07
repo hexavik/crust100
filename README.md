@@ -34,7 +34,7 @@ The challenges are divided into three phases:
 **Goal:** Strengthen your understanding of Rust's core concepts.
 
 - [x] Implement a simple number guessing game.
-- [ ] Create a program that reverses a string without using built-in methods.
+- [x] Create a program that reverses a string without using built-in methods.
 - [ ] Build a basic calculator supporting +, -, *, /.
 - [ ] Implement a function to count occurrences of each character in a string.
 - [ ] Write a function that returns the largest number in an array.
