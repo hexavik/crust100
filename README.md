@@ -36,7 +36,7 @@ The challenges are divided into three phases:
 - [x] Implement a simple number guessing game.
 - [x] Create a program that reverses a string without using built-in methods.
 - [x] Build a basic calculator supporting +, -, *, /.
-- [ ] Implement a function to count occurrences of each character in a string.
+- [x] Implement a function to count occurrences of each character in a string.
 - [ ] Write a function that returns the largest number in an array.
 - [ ] Create a struct Rectangle with methods to calculate area and perimeter.
 - [ ] Implement a basic linked list with push and display methods.
