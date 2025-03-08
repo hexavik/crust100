@@ -37,7 +37,7 @@ The challenges are divided into three phases:
 - [x] Create a program that reverses a string without using built-in methods.
 - [x] Build a basic calculator supporting +, -, *, /.
 - [x] Implement a function to count occurrences of each character in a string.
-- [ ] Write a function that returns the largest number in an array.
+- [x] Write a function that returns the largest number in an array.
 - [ ] Create a struct Rectangle with methods to calculate area and perimeter.
 - [ ] Implement a basic linked list with push and display methods.
 - [ ] Build a CLI app to convert temperatures between Celsius and Fahrenheit.
