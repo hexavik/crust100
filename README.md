@@ -38,7 +38,7 @@ The challenges are divided into three phases:
 - [x] Build a basic calculator supporting +, -, *, /.
 - [x] Implement a function to count occurrences of each character in a string.
 - [x] Write a function that returns the largest number in an array.
-- [ ] Create a struct Rectangle with methods to calculate area and perimeter.
+- [x] Create a struct Rectangle with methods to calculate area and perimeter.
 - [ ] Implement a basic linked list with push and display methods.
 - [ ] Build a CLI app to convert temperatures between Celsius and Fahrenheit.
 - [ ] Create an enum for days of the week and print a custom message for each.
