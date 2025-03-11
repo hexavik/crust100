@@ -40,7 +40,7 @@ The challenges are divided into three phases:
 - [x] Write a function that returns the largest number in an array.
 - [x] Create a struct Rectangle with methods to calculate area and perimeter.
 - [x] Implement a basic linked list with push and display methods.
-- [ ] Build a CLI app to convert temperatures between Celsius and Fahrenheit.
+- [x] Build a CLI app to convert temperatures between Celsius and Fahrenheit.
 - [ ] Create an enum for days of the week and print a custom message for each.
 - [ ] Simulate a simple bank account with deposit, withdraw, and balance methods.
 - [ ] Implement a stack using vectors.
