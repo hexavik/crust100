@@ -41,8 +41,8 @@ The challenges are divided into three phases:
 - [x] Create a struct Rectangle with methods to calculate area and perimeter.
 - [x] Implement a basic linked list with push and display methods.
 - [x] Build a CLI app to convert temperatures between Celsius and Fahrenheit.
-- [ ] Create an enum for days of the week and print a custom message for each.
-- [ ] Simulate a simple bank account with deposit, withdraw, and balance methods.
+- [x] Create an enum for days of the week and print a custom message for each.
+- [x] Simulate a simple bank account with deposit, withdraw, and balance methods.
 - [ ] Implement a stack using vectors.
 - [ ] Implement a queue using linked lists.
 - [ ] Write a function to check if a string is a palindrome.
