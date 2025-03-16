@@ -43,7 +43,7 @@ The challenges are divided into three phases:
 - [x] Build a CLI app to convert temperatures between Celsius and Fahrenheit.
 - [x] Create an enum for days of the week and print a custom message for each.
 - [x] Simulate a simple bank account with deposit, withdraw, and balance methods.
-- [ ] Implement a stack using vectors.
+- [x] Implement a stack using vectors.
 - [ ] Implement a queue using linked lists.
 - [ ] Write a function to check if a string is a palindrome.
 - [ ] Build a program that counts words in a file.
