@@ -45,7 +45,7 @@ The challenges are divided into three phases:
 - [x] Simulate a simple bank account with deposit, withdraw, and balance methods.
 - [x] Implement a stack using vectors.
 - [x] Implement a queue using linked lists.
-- [ ] Write a function to check if a string is a palindrome.
+- [x] Write a function to check if a string is a palindrome.
 - [ ] Build a program that counts words in a file.
 - [ ] Implement a basic Result type error handling scenario for division by zero.
 - [ ] Create a simple password generator with options for length and complexity.
