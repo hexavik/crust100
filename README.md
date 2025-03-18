@@ -27,7 +27,7 @@ The challenges are divided into three phases:
 
 ## ✅ Progress
 
-**Solved:** 12
+**Solved:** 13
 
 ### 🚀 Phase 1: Rust Fundamentals (1–20)
 
