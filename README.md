@@ -44,7 +44,7 @@ The challenges are divided into three phases:
 - [x] Create an enum for days of the week and print a custom message for each.
 - [x] Simulate a simple bank account with deposit, withdraw, and balance methods.
 - [x] Implement a stack using vectors.
-- [ ] Implement a queue using linked lists.
+- [x] Implement a queue using linked lists.
 - [ ] Write a function to check if a string is a palindrome.
 - [ ] Build a program that counts words in a file.
 - [ ] Implement a basic Result type error handling scenario for division by zero.
