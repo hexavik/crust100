@@ -1,0 +1,4 @@
+This is sample text file created to verify if the functionality of the word count program is working correctly.
+This is another line to check if it reads multiple lines.
+
+This is another line including some patterns, en-glish, qq#qqq.
