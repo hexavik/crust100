@@ -47,7 +47,7 @@ The challenges are divided into three phases:
 - [x] Implement a queue using linked lists.
 - [x] Write a function to check if a string is a palindrome.
 - [x] Build a program that counts words in a file.
-- [ ] Implement a basic Result type error handling scenario for division by zero.
+- [x] Implement a basic Result type error handling scenario for division by zero.
 - [ ] Create a simple password generator with options for length and complexity.
 - [ ] Implement a binary search algorithm.
 - [ ] Build a mini “todo” CLI app with add, remove, and list features.
