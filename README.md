@@ -49,7 +49,7 @@ The challenges are divided into three phases:
 - [x] Build a program that counts words in a file.
 - [x] Implement a basic Result type error handling scenario for division by zero.
 - [x] Create a simple password generator with options for length and complexity.
-- [ ] Implement a binary search algorithm.
+- [x] Implement a binary search algorithm.
 - [ ] Build a mini “todo” CLI app with add, remove, and list features.
 - [ ] Create a program that reads a file and prints its contents to the console.
 - [ ] Simulate rolling a dice and keep track of the results using a HashMap.
