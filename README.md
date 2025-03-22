@@ -51,7 +51,7 @@ The challenges are divided into three phases:
 - [x] Create a simple password generator with options for length and complexity.
 - [x] Implement a binary search algorithm.
 - [ ] Build a mini “todo” CLI app with add, remove, and list features.
-- [ ] Create a program that reads a file and prints its contents to the console.
+- [x] Create a program that reads a file and prints its contents to the console.
 - [ ] Simulate rolling a dice and keep track of the results using a HashMap.
 
 ### 🔥 Phase 2: Intermediate Concepts (21–50)
