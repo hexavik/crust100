@@ -52,7 +52,7 @@ The challenges are divided into three phases:
 - [x] Implement a binary search algorithm.
 - [ ] Build a mini “todo” CLI app with add, remove, and list features.
 - [x] Create a program that reads a file and prints its contents to the console.
-- [ ] Simulate rolling a dice and keep track of the results using a HashMap.
+- [x] Simulate rolling a dice and keep track of the results using a HashMap.
 
 ### 🔥 Phase 2: Intermediate Concepts (21–50)
 
